@@ -25,4 +25,4 @@ Task in Html and Css to design multiple interface.
 - Bootstrap: For styling the UI.
 
 ## Screenshot 
-(assets/images/web-react.png)
+![Screenshot](assets/images/web-react.png)
